@@ -9,4 +9,4 @@ https://docs.google.com/document/d/1xN4QETCq95RAF7KNhUY2xi-ciJ2sDDCMkIPozdp0Mlg/
 # Тест-кейсы, чек-листы, баг-репорт 
 https://docs.google.com/document/d/1-nkgjsfakbtFpEbRiYHBPlpWkL4U4ceOLVWgknjmMJY/edit#heading=h.loqks6bsaz37
 # Баг-репорт (Jira)
-![image](https://user-images.githubusercontent.com/125746277/220391736-5f03e07e-de2e-4af8-bf6f-0ec0b38a6da0.png)
+![image](https://user-images.githubusercontent.com/125746277/220392982-87802c8d-a2f2-4664-8f12-e2f7967c86da.png)
